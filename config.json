@@ -1,0 +1,7 @@
+{
+  "delta_api_key": "YOUR_DELTA_EXCHANGE_API_KEY",
+  "delta_api_secret": "YOUR_DELTA_EXCHANGE_API_SECRET",
+  "use_balance_percent": 10,
+  "leverage": 10,
+  "symbol": "BTCUSDT"
+}
